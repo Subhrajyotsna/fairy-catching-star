@@ -46,7 +46,7 @@ function draw() {
   background(bgImg);
   fairy.velocityX=0;
   fairy.velocityY=0;
-  fairyVoice.play();
+
 
   drawSprites();
  
